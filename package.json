@@ -1,0 +1,13 @@
+{
+  "name": "amazon-affiliate-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord qui transforme les liens Amazon en liens affiliés",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0"
+  }
+}
